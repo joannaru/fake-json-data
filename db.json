@@ -1,4 +1,5 @@
-{
+{ "data": 
+      {
       "RevenueStreams": ["Commission", "E-commerce", "Brick and mortar retail"],
       "ValueProposition": ["Savings"],
       "BrandValues": ["convenience"],
@@ -7,4 +8,5 @@
       "Country": ["Poland"],
       "Gender": ["Female"],
       "Department": ["Marketing"]
+      }
 }
