@@ -1,12 +1,12 @@
 { "data": 
-      {
-      "RevenueStreams": ["Commission", "E-commerce", "Brick and mortar retail"],
-      "ValueProposition": ["Savings"],
-      "BrandValues": ["convenience"],
-      "ProductChange": ["it's easier"],
-      "Segment": ["B2B"],
-      "Country": ["Poland"],
-      "Gender": ["Female"],
-      "Department": ["Marketing"]
-      }
+      [
+      {"question": "RevenueStreams", "answers": ["Commission", "E-commerce", "Brick and mortar retail"]},
+      {"question": "ValueProposition", "answers":["Savings"]},
+      {"question": "BrandValues", "answers": ["convenience"]},
+      {"question": "ProductChange", "answers":["it's easier"]},
+      {"question": "Segment", "answers": ["B2B"]},
+      {"question": "Country", "answers": ["Poland"]},
+      {"question": "Gender", "answers": ["Female"]},
+      {"question": "Department", "answers": ["Marketing"]}
+      ]
 }
